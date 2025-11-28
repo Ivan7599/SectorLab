@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#4C78A8"     # bleu professionnel
+backgroundColor="#0E1117"  # fond sombre style Bloomberg
+secondaryBackgroundColor="#1C212B"
+textColor="#FAFAFA"
+font="sans serif"
