@@ -10,10 +10,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
 
-#COMMAND TO WRITE
-"""cd "C:\HEC Lausanne\MScF\PortfolioConstruction\QARM"
-& "..\.venv\Scripts\python.exe" -m streamlit run app.py
-"""
+
 
 
 # ---------------------------------------------------------
